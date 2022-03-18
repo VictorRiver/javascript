@@ -1,0 +1,1 @@
+console.log("Inscreava-se no meu canal")
